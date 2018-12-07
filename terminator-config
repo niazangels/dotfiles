@@ -1,0 +1,115 @@
+[global_config]
+  enabled_plugins = TerminatorThemes, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#1C2532"
+    background_image = None
+    cursor_color = "#b9b5b8"
+    font = Source Code Variable Roman 12
+    foreground_color = "#b9b5b8"
+    palette = "#1C2532:#fa1231:#4FCF3F:#FFC02A:#0055FF:#AB7EF6:#26C2C9:#FAFBFC:#323E4F:#E54124:#1BB934:#FFB610:#0194EF:#AB7EF6:#8EACC5:#FFFFFF"
+    use_system_font = False
+  [[3024 Day]]
+    background_color = "#f7f7f7"
+    background_image = None
+    cursor_color = "#4a4543"
+    foreground_color = "#4a4543"
+    palette = "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7"
+  [[AdventureTime]]
+    background_color = "#1f1d45"
+    background_image = None
+    cursor_color = "#efbf38"
+    foreground_color = "#f8dcc0"
+    palette = "#050404:#bd0013:#4ab118:#e7741e:#0f4ac6:#665993:#70a598:#f8dcc0:#4e7cbf:#fc5f5a:#9eff6e:#efc11a:#1997c6:#9b5953:#c8faf4:#f6f5fb"
+  [[Afterglow]]
+    background_color = "#212121"
+    background_image = None
+    cursor_color = "#d0d0d0"
+    foreground_color = "#d0d0d0"
+    palette = "#151515:#ac4142:#7e8e50:#e5b567:#6c99bb:#9f4e85:#7dd6cf:#d0d0d0:#505050:#ac4142:#7e8e50:#e5b567:#6c99bb:#9f4e85:#7dd6cf:#f5f5f5"
+  [[Argonaut]]
+    background_color = "#0e1019"
+    background_image = None
+    cursor_color = "#ff0018"
+    foreground_color = "#fffaf4"
+    palette = "#232323:#ff000f:#8ce10b:#ffb900:#008df8:#6d43a6:#00d8eb:#ffffff:#444444:#ff2740:#abe15b:#ffd242:#0092ff:#9a5feb:#67fff0:#ffffff"
+  [[AtomOneLight]]
+    background_color = "#f9f9f9"
+    background_image = None
+    cursor_color = "#bbbbbb"
+    foreground_color = "#2a2c33"
+    palette = "#000000:#de3e35:#3f953a:#d2b67c:#2f5af3:#950095:#3f953a:#bbbbbb:#000000:#de3e35:#3f953a:#d2b67c:#2f5af3:#a00095:#3f953a:#ffffff"
+  [[Belafonte Night]]
+    background_color = "#20111b"
+    background_image = None
+    cursor_color = "#968c83"
+    foreground_color = "#968c83"
+    palette = "#20111b:#be100e:#858162:#eaa549:#426a79:#97522c:#989a9c:#968c83:#5e5252:#be100e:#858162:#eaa549:#426a79:#97522c:#989a9c:#d5ccba"
+  [[BirdsOfParadise]]
+    background_color = "#2a1f1d"
+    background_image = None
+    cursor_color = "#573d26"
+    foreground_color = "#e0dbb7"
+    palette = "#573d26:#be2d26:#6ba18a:#e99d2a:#5a86ad:#ac80a6:#74a6ad:#e0dbb7:#9b6c4a:#e84627:#95d8ba:#d0d150:#b8d3ed:#d19ecb:#93cfd7:#fff9d5"
+  [[Bright Lights]]
+    background_color = "#191919"
+    background_image = None
+    cursor_color = "#f34b00"
+    foreground_color = "#b3c9d7"
+    palette = "#191919:#ff355b:#b7e876:#ffc251:#76d4ff:#ba76e7:#6cbfb5:#c2c8d7:#191919:#ff355b:#b7e876:#ffc251:#76d5ff:#ba76e7:#6cbfb5:#c2c8d7"
+  [[Chesterish]]
+    background_color = "#293340"
+    background_image = None
+    cursor_color = "#2c85f7"
+    foreground_color = "#cdd2e9"
+    palette = "#293340:#e17e85:#61ba86:#ffec8e:#4cb2ff:#be86e3:#2dced0:#cdd2e9:#546386:#e17e85:#61ba86:#ffec8e:#4cb2ff:#be86e3:#2dced0:#cdd2e9"
+  [[DotGov]]
+    background_color = "#262c35"
+    background_image = None
+    cursor_color = "#d9002f"
+    font = Monaco 12
+    foreground_color = "#ebebeb"
+    palette = "#191919:#bf091d:#3d9751:#f6bb34:#17b2e0:#7830b0:#8bd2ed:#ffffff:#191919:#bf091d:#3d9751:#f6bb34:#17b2e0:#7830b0:#8bd2ed:#ffffff"
+    use_system_font = False
+  [[Duotone Dark]]
+    background_color = "#1f1d27"
+    background_image = None
+    cursor_color = "#ff9839"
+    foreground_color = "#b7a1ff"
+    palette = "#1f1d27:#d9393e:#2dcd73:#d9b76e:#ffc284:#de8d40:#2488ff:#b7a1ff:#353147:#d9393e:#2dcd73:#d9b76e:#ffc284:#de8d40:#2488ff:#eae5ff"
+  [[Flat]]
+    background_color = "#002240"
+    background_image = None
+    cursor_color = "#e5be0c"
+    font = Monaco 12
+    foreground_color = "#2cc55d"
+    palette = "#222d3f:#a82320:#32a548:#e58d11:#3167ac:#781aa0:#2c9370:#b0b6ba:#212c3c:#d4312e:#2d9440:#e5be0c:#3c7dd2:#8230a7:#35b387:#e7eced"
+    use_system_font = False
+    visible_bell = True
+  [[Vue Dark Mode]]
+    background_color = "#1C2532"
+    background_image = None
+    cursor_color = "#b9b5b8"
+    font = Source Code Variable Roman 12
+    foreground_color = "#b9b5b8"
+    palette = "#1C2532:#E1112C:#4FCF3F:#FFC02A:#2EA2F9:#AB7EF6:#26C2C9:#FAFBFC:#323E4F:#E54124:#1BB934:#FFB610:#0194EF:#AB7EF6:#8EACC5:#FFFFFF"
+    use_system_font = False
+  [[niazangels]]
+    background_color = "#1f2d3a"
+    background_image = None
+    cursor_color = "#1abc9c"
+    font = Monaco 13
+    foreground_color = "#1abc9c"
+    palette = "#2c3e50:#c0392b:#27ae60:#f39c12:#2980b9:#8e44ad:#16a085:#bdc3c7:#34495e:#e74c3c:#2ecc71:#f1c40f:#3498db:#9b59b6:#2aa198:#ecf0f1"
+    use_system_font = False
+    visible_bell = True
