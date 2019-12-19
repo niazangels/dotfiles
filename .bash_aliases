@@ -34,6 +34,18 @@ alias Gcob="git checkout -b" # + branch name
 
 alias Glog='git log --graph --all --decorate'
 
+# Docker
+alias Dps='docker ps'
+alias Dc='docker container'
+alias Dcls='docker container ls'
+alias Di='docker image'
+alias Dis='docker images'
+alias Dl='docker logs -f'
+alias De='docker exec -it'
+alias Dsl='docker service logs -f'
+alias Dsls='docker service ls'
+
+
 alias ..='cd ..'
 alias ...='cd ../../'
 
